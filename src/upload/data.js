@@ -1,4 +1,4 @@
-const data = [
+-const data = [
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
